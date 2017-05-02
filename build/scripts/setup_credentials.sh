@@ -15,7 +15,7 @@ solenopsis.env.MASTER=local
 solenopsis.env.DEPENDENT=$SOL_SANDBOXNAME
 solenopsis.env.local.HOME=$SRC_DIR
 
-sf.antFile=$TRAVIS_BUILD_DIR/build/ant/ant-salesforce-88.jar
+sf.antFile=$TRAVIS_BUILD_DIR/build/ant/salesforce_ant_38.0.jar
 EOF
 
 mkdir -p $SOL_CREDDIR
