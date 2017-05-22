@@ -1,3 +1,2 @@
-public class AccountDeletion {
-
+public class AccountDeletion2 {
 }
